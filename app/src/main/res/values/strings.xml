@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">МСКП</string>
+    <string name="btnSignIn">Войти</string>
+    <string name="ETPassword">Пароль</string>
+    <string name="ETLogin">Логин</string>
+
+    <string name="title_update">Обновить данные</string>
+</resources>
